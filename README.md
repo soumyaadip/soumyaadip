@@ -27,9 +27,9 @@
 ### Languages :
 [![My Skills][![My Skills](https://skillicons.dev/icons?i=js,html,css,js,bootstrap,c,cpp)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaadip&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaadip&theme=dark)
 
 
 
