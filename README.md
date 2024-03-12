@@ -25,7 +25,7 @@
 </div>
 
 ### Languages :
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js.html,css)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css)
 
 ### Framework :
 ![My Skills](https://skillicons.dev/icons?i=react,bootstrap)
@@ -33,7 +33,7 @@
 
 ### Tools :
 
-![My Skills](https://skillicons.dev/icons?i=git,github,linux,visualstudio,figma)
+![My Skills](https://skillicons.dev/icons?i=git,github,linux,visualstudio,figma,vercel)
 
 
 
