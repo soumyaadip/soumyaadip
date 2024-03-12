@@ -20,8 +20,19 @@
   </a>
    <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
   </a>
 </div>
+
+### Languages :
+[![My Skills][![My Skills](https://skillicons.dev/icons?i=js,html,css,js,bootstrap,c,cpp)](https://skillicons.dev)
+
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+
 
 
 
