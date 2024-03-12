@@ -25,11 +25,16 @@
 </div>
 
 ### Languages :
-![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js.html,css)
+
+### Framework :
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap)
+
 
 ### Tools :
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,linux,visualstudio,figma)
+
 
 
 ![soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaadip&show_icons=true&theme=dark)
