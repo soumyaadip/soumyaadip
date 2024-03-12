@@ -25,7 +25,12 @@
 </div>
 
 ### Languages :
-[![My Skills][![My Skills](https://skillicons.dev/icons?i=js,html,css,js,bootstrap,c,cpp)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,c,cpp)](https://skillicons.dev)
+
+### Tools :
+
+![My Skills](https://skillicons.dev/icons?i=git,github,linux,visualstudio,figma)](https://skillicons.dev)
+
 
 ![soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaadip&show_icons=true&theme=dark)
 
